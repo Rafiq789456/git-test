@@ -1,0 +1,116 @@
+/* Background */
+
+
+.bg-grey{
+    background-color: var( --colorgrey);
+}
+.bg-wildsand{
+    background-color: var( --colorWildSand);
+}
+
+.bg-darkgreen{
+    background-color: var(--colordarkGreen);
+}
+.bg-white {
+    background-color: var(--colorWhite);
+}
+
+.bg-black {
+    background-color: var(--colorBlack);
+}
+
+.bg-grey3 {
+    background-color: var(--colorGray3);
+}
+
+
+.bg-mineshaft {
+    background-color: var(--colorMineShaft);
+}
+
+.bg-shamrock {
+    background-color: var(--colorShamrock);
+
+}
+
+.bg-ablegreen {
+    background-color: var(--colorableGreen);
+
+}
+
+.bg-surfiegreen {
+    background-color: var(--colorSurfieGreen);
+
+}
+
+.bg-catskillwhite {
+    background-color: var(--colorCatskillWhite);
+
+}
+
+.bg-ming {
+    background-color: var(--colorMing);
+
+}
+.bg-iron{
+    background-color: var(--colorIron);
+}
+
+.bg-whisper{
+    background-color: var(--colorWhisper);
+}
+
+
+
+/* Color */
+
+.text-grey2{
+    color: var(--collorgrey2);
+}
+.text-wildsand{
+    color: var( --colorWildSand);
+}
+.text-iron{
+    color: var(--colorIron);
+}
+.text-white {
+    color: var(--colorWhite);
+}
+
+.text-black {
+    color: var(--colorBlack);
+}
+
+.text-grey3 {
+   color: var(--colorGray3);
+}
+
+
+.text-mineshaft {
+    color: var(--colorMineShaft);
+}
+
+.text-shamrock {
+    color: var(--colorShamrock);
+
+}
+
+.text-ablegreen {
+    color: var(--colorableGreen);
+
+}
+
+.text-surfiegreen {
+    color: var(--colorSurfieGreen);
+
+}
+
+.text-catskillwhite {
+    color: var(--colorCatskillWhite);
+
+}
+
+.text-ming {
+    color: var(--colorMing);
+
+}

@@ -1,0 +1,63 @@
+.icon{
+    display: inline-flex;
+    width: 24px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.icon-m{
+    width: 28px;
+    height: 28px;
+    
+}
+.icon-sm{
+    width: 15px;
+    height: 15px;
+    
+}
+.icon-info{
+    background-image: url('../img/info.svg');
+}
+
+.icon-support{
+    background-image: url('../img/support.svg');
+}
+
+.icon-phone{
+    background-image: url('../img/phone.svg');
+}
+.icon-snow{
+    background-image: url('../img/snow.svg');
+}
+.icon-search{
+    background-image: url('../img/search.svg');
+}
+
+.icon-people{
+    background-image: url('../img/header_icon.svg');
+}
+
+.icon-less_bottom{
+    background-image: url('../img/less_than_bottom.svg');
+}
+
+
+.icon-less_right{
+    background-image: url('../img/less_than_right.svg');
+}
+
+
+.icon-less{
+    background-image: url('../img/less_than.svg');
+}
+
+
+.icon-linkedin{
+    background-image: url('../img/linkedin.svg');
+}
+
+
+
+
